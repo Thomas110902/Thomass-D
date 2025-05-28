@@ -21,5 +21,5 @@
 
 <p align="center">
   🚀 Tecnologías que estoy usando:<br>
-  <code>#html</code> • <code>#css</code> • <code>#javascript</code> • <code>#git</code> • <code>#SQL</code> • <code>#linux</code>
+  <code>#html</code> • <code>#css</code>  • <code>#git</code> • <code>#SQL</code> • <code>#linux</code>
 </p>
