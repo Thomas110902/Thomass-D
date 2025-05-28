@@ -1,7 +1,6 @@
 +# Thomass-D
 
 <p>
-   <img src="./ico.gif" align="right" width="15%"/>
   <img src="https://i.imgur.com/OqdBkNn.gif" align="right" width="15%"/>
   <samp>
     <br>Soy un desarrollador Web y creador de contenidos digitales.
