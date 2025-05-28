@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  👋 ¡Hola! Soy un <strong>desarrollador web</strong> y <strong>creador de contenido digital</strong> apasionado por la tecnología.  
+  👋 ¡Hola! Soy <strong> alguien que quiere aprender todo sobre la  web</strong> y <strong>crear contenido digital</strong> .  
   <br><br>
   🌱 <strong>Actualmente aprendiendo:</strong> Programación desde cero 😄  
   <br>
