@@ -3,7 +3,8 @@
 <h1 align="center">👨‍💻 <span style="color:#00FFFF;">Thomass-D</span> 🚀</h1>
 
 <p align="right">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150px">
+  <img src="./ico.gif" width="150px">
+  <img src="https://gifdb.com/images/high/gumball-watterson-big-abs-d6grab4xq9vu409a.gif" width="150px">
 </p>
 
 <p>
