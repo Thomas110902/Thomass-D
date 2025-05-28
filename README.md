@@ -12,7 +12,7 @@
   <br><br>
   🌱 <strong>Actualmente aprendiendo:</strong> Programación desde cero 😄  
   <br>
-  ☕ <strong>Lenguajes:</strong> Java y próximamente Javascript  
+  ☕ <strong>Lenguajes:</strong> Java, CSS, SQL,  y próximamente Javascript :V
   <br>
   🌐 <strong>Meta:</strong> Convertirme en un pro del desarrollo web 💻  
 </p>
