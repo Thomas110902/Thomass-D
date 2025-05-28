@@ -9,7 +9,6 @@
     <br>🔹 Actualmente estoy aprendiendo programacion :D
     <br>🔹 Programación en Java, y muy pronto Javascript
     <br>🔹 Me interesa aprender mucho mas sobre el desarrolo web
-    <br>🔹 https://jossuefuentes.space/
     </samp>
    <br>
   <br>
