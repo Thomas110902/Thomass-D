@@ -9,7 +9,6 @@
   <div align="right">
     
     <img src="https://i.imgur.com/OqdBkNn.gif" width="15%" style="display: inline-block;"/>
-    <img src="./ico.gif" width="15%" style="display: inline-block;"/>
   </div>
 
   <p style="font-size: 16px;">
