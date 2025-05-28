@@ -1,4 +1,4 @@
-<!-- Presentación de Thomass-D -->
+<!-- Presentación de Thomass:D -->
 
 <h1 align="center">👨‍💻 <span style="color:#00FFFF;">Thomass-D</span> 🚀</h1>
 
