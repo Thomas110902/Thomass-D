@@ -1,20 +1,18 @@
-<!-- Presentación de Thomass-ito -->
+Holaa Gente, Soy Eduu :D
+---
 <p>
-<img src="https://media.tenor.com/Wg7KpxsmVRcAAAAM/gumball-super-saiyan.gif" width="20%" height="50%">
-
-  👋 ¡Hola! Soy <strong> alguien que quiere aprender todo sobre la  web</strong> y <strong>crear contenido digital</strong> .  
-  <br><br>
-  🌱 <strong>Actualmente aprendiendo:</strong> Programación desde cero 😄  
+ 
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/1f0a5a9eb2c8e4dcc3dcbda199bc0bc4-1586630938/goku%20black/make-a-pixel-art-gif.gif" align="right" width="20%" height="10%"/>
+  <samp>
+    <br>Soy un joven que quiere aprender sobre la programacion y el diseño web
+    <br>
+    <br>+ 🎯 Quiero lograr en ser capaz de aprender cosas nuevas
+    <br>+ 🔥 Quiero mejorar, no solo academicamente si no en mis habilidades
+    <br> + 🧠Conocer acerca de como funciona el mundo de la programacion
+    <br> + 💪Nunca se rindan :] 
+</samp>
+   <br>
   <br>
-  ☕ <strong>Lenguajes:</strong> Java, CSS, SQL,  y próximamente Javascript :o
-  <br>
-  🌐 <strong>Meta:</strong> Aprender sobre todo el desarrollo web y progrmacion :U 💻  
-</p>
-
-<hr>
-
-<p align="center">
-  🚀 Tecnologías que estoy usando:<br>
-  <code>#html</code> • <code>#css</code>  • <code>#git</code> • <code>#SQL</code> • <code>#linux</code>
-</p>
-
+  <p align="center">
+    <samp>
+      "HTML" | "CSS" | "Git" | "SQL" | "Linux"
