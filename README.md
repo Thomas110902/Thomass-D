@@ -14,10 +14,10 @@ Holaa Gente, Soy Eduu :D
    <br>
   <br>
   <p align="center">
+    <samp>
    <p align="center">
      <br> Experto y aprendiendo sobre :
    </p>
     
-    <samp>
       "HTML" | "CSS" | "Git" | "SQL" | "Linux"
    <br> Holaa Rockyyyy 
