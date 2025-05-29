@@ -2,7 +2,7 @@ Holaa Gente, Soy Eduu :D
 ---
 <p>
  
-  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/1f0a5a9eb2c8e4dcc3dcbda199bc0bc4-1586630938/goku%20black/make-a-pixel-art-gif.gif" align="right" width="20%" height="10%"/>
+  <img src="https://media1.giphy.com/media/WxTzTG2btPHMuxjz08/200.gif?cid=6c09b952xwhc46s3523elkoelobnwjg4851y0wusd09auclf&ep=v1_stickers_search&rid=200.gif&ct=s" align="right" width="20%" height="10%"/>
   <samp>
     <br>Soy un joven que quiere aprender sobre la programacion y el diseño web
     <br>
@@ -16,3 +16,4 @@ Holaa Gente, Soy Eduu :D
   <p align="center">
     <samp>
       "HTML" | "CSS" | "Git" | "SQL" | "Linux"
+   <br> + 💪Holaa Rockyyyy 
