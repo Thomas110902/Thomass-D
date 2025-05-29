@@ -1,6 +1,6 @@
-<!-- Presentación de Thomass:D -->
+<!-- Presentación de Thomass-ito -->
 
-<h1 align="center">👨‍💻 <span style="color:#00FFFF;">Thomass-D</span> 🚀</h1>
+<h1 align="center">👨‍💻 <span style="color:#00FFFF;">Thomass</span> 🚀</h1>
 
 <p align="right">
   <img src="./ico.gif" width="150px">
@@ -16,6 +16,7 @@
   <br>
   🌐 <strong>Meta:</strong> Aprender sobre todo el desarrollo web y progrmacion :U 💻  
 </p>
+<img src="https://gifdb.com/images/high/gumball-watterson-big-abs-d6grab4xq9vu409a.gif" width="150px">
 
 <hr>
 
