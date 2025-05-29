@@ -1,4 +1,5 @@
 <!-- Presentación de Thomass-ito -->
+<p>
 <img src="https://media.tenor.com/Wg7KpxsmVRcAAAAM/gumball-super-saiyan.gif" width="20%" height="50%">
 
   👋 ¡Hola! Soy <strong> alguien que quiere aprender todo sobre la  web</strong> y <strong>crear contenido digital</strong> .  
