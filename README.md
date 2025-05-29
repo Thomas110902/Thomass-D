@@ -16,4 +16,4 @@ Holaa Gente, Soy Eduu :D
   <p align="center">
     <samp>
       "HTML" | "CSS" | "Git" | "SQL" | "Linux"
-   <br> + 💪Holaa Rockyyyy 
+   <br> Holaa Rockyyyy 
