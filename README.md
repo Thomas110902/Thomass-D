@@ -15,5 +15,6 @@ Holaa Gente, Soy Eduu :D
   <br>
   <p align="center">
     <samp>
+     <br> Experto y aprendiendo sobre :
       "HTML" | "CSS" | "Git" | "SQL" | "Linux"
    <br> Holaa Rockyyyy 
